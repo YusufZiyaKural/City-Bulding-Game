@@ -2,8 +2,6 @@
 
 A **primitive console-based construction and management simulation (CMS) game** written in C++. Players can build cities, manage resources, and make strategic decisions to grow their urban space within a simple yet functional terminal interface.
 
----
-
 ## Game Description
 
 This project simulates the core mechanics of a city builder game where players can:
@@ -12,8 +10,6 @@ This project simulates the core mechanics of a city builder game where players c
 - Manage limited actions per round (turn-based system)
 - Control income and happiness based on building proximity and types
 - Interact entirely via the console using C++ standard input/output
-
----
 
 ## Game Features
 
@@ -34,8 +30,6 @@ This project simulates the core mechanics of a city builder game where players c
   - Map updates and displays
   - Income and happiness are recalculated
   - Game ends when player inputs `q`
-
----
 
 ## 📂 Project Structure
 
@@ -73,8 +67,6 @@ CityBuilderGame/
 
 -Repeat until q is entered to quit
 
----
-
 ## **Sample Gameplay**
 ````
 Enter building type (h/m/s/l/p/q): h
@@ -86,7 +78,6 @@ Current Income: 120
 Happiness Score: 35%
 ...
 ````
----
 
 ## **Authors**
 Developed by:
