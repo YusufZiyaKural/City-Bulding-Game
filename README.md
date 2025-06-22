@@ -1,4 +1,4 @@
-# Basic City Building Simulation Game (Console-Based, C++)
+# Basic City Building Simulation Game
 
 A **primitive console-based construction and management simulation (CMS) game** written in C++. Players can build cities, manage resources, and make strategic decisions to grow their urban space within a simple yet functional terminal interface.
 
