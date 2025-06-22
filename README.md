@@ -48,7 +48,8 @@ CityBuilderGame/
 ├── README.md
 └── LICENSE
 ````
-[Whole Program UML + FC.pdf](https://github.com/user-attachments/files/20854866/Whole.Program.UML.%2B.FC.pdf)
+![Whole Program UML + FC_page-0001](https://github.com/user-attachments/assets/435d66c6-9ea1-470c-8ded-4e8a89a142e1)
+
 
 ## How to Play
 
